@@ -90,6 +90,10 @@ The Excel workbooks contain data prepared for empirical analysis. `Survey form.d
 
 For anonymous review, cite the accompanying manuscript according to the conference's artifact-citation instructions. Full bibliographic details can be added after the review process.
 
+## Survey form link:
+https://docs.google.com/forms/d/e/1FAIpQLSdIzSQQE7VYuP_X5j8k1WfFNiGqCGF-hNeHpPqsDLQTC_ji_Q/viewform?pli=1
+
+
 ## Anonymity and usage
 
 This repository is intended to be shared through an anonymous review link. The source repository and any author-identifying metadata should not be disclosed to reviewers. Before submission, verify that document properties, notebook outputs, file contents, commit metadata, and external survey links do not reveal author identities.
